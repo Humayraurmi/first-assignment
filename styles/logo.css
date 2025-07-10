@@ -73,3 +73,89 @@ nav{
     border-radius: 48px;
 
 }
+.another-container{
+    background-color: rgba(78, 71, 255, 0.1);
+    text-align: center;
+    margin: 162px;
+    border-radius: 24px;
+    padding: 10px 50px;
+    
+}
+.another-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 0px;
+}
+.join-items{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+}
+.item-title{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-bottom: 0;
+}
+.item-description{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 0;
+}
+.review{
+    margin-top: auto;
+    margin-left: 162px;
+    margin-right: 162px;
+    padding: 24px;
+}
+.review-title{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.review-content{
+    border-radius: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 24px;
+    color: #FFFFFF;
+    stroke: #F2EDED;
+}
+.review-titles{
+    font-size: 24px;
+    color: #252432;
+}
+.review-description{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 1);
+}
+.review-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.name{
+    color: rgba(37, 36, 50, 0.5);
+    font-weight: bold;
+}
+.date{
+    color: rgba(37, 36, 50, 0.5);
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+.round-image{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+ul li{
+    list-style: none;
+}
