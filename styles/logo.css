@@ -1,13 +1,15 @@
 
-.raleway-normal {
-  font-family: "Raleway", sans-serif;
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
 .header{
     background-image: url('../Assets/Hero-bg.png');
-    min-height: 100vh;
+    min-height: 80vh;
 }
 body{
     background-color: rgba(245, 245, 245, 0.8);
