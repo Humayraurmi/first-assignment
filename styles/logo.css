@@ -10,7 +10,7 @@
 }
 .header{
     background-image: url('../Assets/Hero-bg.png');
-    min-height: 80vh;
+    min-height: 100vh;
 }
 body{
     background-color: rgba(245, 245, 245, 0.8);
