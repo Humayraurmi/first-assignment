@@ -1,10 +1,9 @@
-.open-sans-normal {
-  font-family: "Open Sans", sans-serif;
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 .header{
     background-image: url('../Assets/Hero-bg.png');
@@ -205,6 +204,9 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border-radius: 10px;
     border: none;
     width: 100%;
+}
+footer input[type="submit"]{
+    width: 105%;
 }
 .last-footer-section{
     text-align: center;
